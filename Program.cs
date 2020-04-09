@@ -8,6 +8,7 @@ namespace MyFirstProject1
 {
     class Program
     {
+        // this is my first program
         static void Main(string[] args)
         {
         }
